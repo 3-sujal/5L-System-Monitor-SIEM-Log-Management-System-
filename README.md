@@ -38,8 +38,8 @@ pip install flask psutil pywin32
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd <your-repo>
+   git clone https://github.com/3-sujal/5L-System-Monitor-SIEM-Log-Management-System.git
+   cd 5L-System-Monitor-SIEM-Log-Management-System
    ```
 2. Install dependencies:
    ```bash
